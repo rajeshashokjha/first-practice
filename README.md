@@ -1,2 +1,2 @@
 # first-practice
-this is for training purpose only
+this is for training purpose only---devops
